@@ -147,8 +147,8 @@ O sistema utiliza uma arquitetura de microserviços distribuída:
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/Julio-Lopes/desafio-gdash-2025-02/tree/julio-cesar-ribeiro-lopes
-cd weather-system
+git clone https://github.com/Julio-Lopes/desafio-gdash-2025-02.git
+cd desafio-gdash-2025-02
 ```
 
 ### 2. Configure Variáveis de Ambiente
