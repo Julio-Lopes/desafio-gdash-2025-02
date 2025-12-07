@@ -147,7 +147,7 @@ O sistema utiliza uma arquitetura de microserviços distribuída:
 ### 1. Clone o Repositório
 
 ```bash
-git clone *url-do-repositorio*
+git clone [*url-do-repositorio*](https://github.com/Julio-Lopes/desafio-gdash-2025-02/tree/julio-cesar-ribeiro-lopes)
 cd weather-system
 ```
 
