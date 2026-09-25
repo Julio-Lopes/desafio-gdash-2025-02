@@ -599,7 +599,7 @@ Este projeto foi desenvolvido para fins educacionais como desafio técnico GDash
 Desenvolvido com ☕ e 💙 para o desafio técnico GDash.
 
 **Links:**
-- LinkedIn: [seu-perfil](https://www.linkedin.com/in/julio-cesar-ribeiro-lopes-0039ba244/)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/julio-cesar-ribeiro-lopes-0039ba244/)
 
 ---
 
